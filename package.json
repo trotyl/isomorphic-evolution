@@ -1,0 +1,11 @@
+{
+  "name": "isomorphic-evolution",
+  "version": "1.0.0",
+  "description": "Demo project for Isomorphic JavaScript evolution process",
+  "main": "index.js",
+  "repository": "https://github.com/trotyl/isomorphic-evolution.git",
+  "author": "Trotyl Yu <trotyl@qq.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
